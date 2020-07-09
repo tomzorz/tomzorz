@@ -1,4 +1,4 @@
-### Hi there 👋
+![👋 Hi! My name is Tamás Deme and I'm working on a future I'd like to live in, and not one I'd like to read about. Find me on the web: tomzorz.me and on twitter: @tomzorz_](https://github.com/tomzorz/tomzorz/raw/master/main.gif)
 
 <!--
 **tomzorz/tomzorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
